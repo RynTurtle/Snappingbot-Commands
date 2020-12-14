@@ -31,6 +31,8 @@ List of commands and what they do :)
 
 +sublist (channel) - sends all channel emotes of a channel  (including tier 2 and 3 emotes)
 
++id (username) - returns the user id of a user
+ 
 +roll - returns a number from 1 to 100
 
 +d20 -  returns a number from 1 to 20
