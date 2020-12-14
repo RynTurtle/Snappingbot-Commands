@@ -25,8 +25,14 @@ List of commands and what they do :)
 
 +vanish - times the user out with a reason of "this user is now hidden"
 
++accountage - how old your account is
+
++followage  (channel) - how long you have been following a channel
+
 +roll - returns a number from 1 to 100
 
 +d20 -  returns a number from 1 to 20
+
+
 
 ++ commands means that only the bot owner (turtoise) can use
