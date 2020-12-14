@@ -29,6 +29,8 @@ List of commands and what they do :)
 
 +followage  (channel) - how long you have been following a channel
 
++sublist (channel) - sends all channel emotes of a channel  (including tier 2 and 3 emotes)
+
 +roll - returns a number from 1 to 100
 
 +d20 -  returns a number from 1 to 20
