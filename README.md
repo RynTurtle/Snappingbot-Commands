@@ -40,3 +40,5 @@ List of commands and what they do :)
 
 
 ++ commands means that only the bot owner (turtoise) can use
+
+If you make the bot say anything against twitch TOS you will be put on the banlist and you will not be able to use this bot again. 
