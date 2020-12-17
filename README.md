@@ -1,7 +1,7 @@
 # Snappingbot-Commands
 List of commands and what they do :) 
 
-(the bot is not properly made yet so there might be errors for example sending a command to another chat or receiving a command from another chat. I apologise for any inconveniences, if you would like to remove the bot until the issues are fixed just pm me on twitter and ill understand) 
+(the bot is not properly made yet so there might be some bugs for example sending a command to another chat or receiving a command from another chat. I apologise for any inconveniences, if you would like to remove the bot until the issues are fixed just pm me on twitter and ill understand) 
 
 +turtfact - random turtle/tortoise fact
 
@@ -31,10 +31,14 @@ List of commands and what they do :)
 
 +followage  (channel) - how long you have been following a channel
 
-+sublist (channel) - sends all channel emotes of a channel  (including tier 2 and 3 emotes)
-
 +id (username) - returns the user id of a user
  
++subage - returns the amount of time a user has a sub streak for (not including someone who twitch primes every month) (requires authentication)
+ 
++sublist (channel) - sends all channel emotes of a channel  (including tier 2 and 3 emotes)
+
++subcount - returns the amount of subs the channel has (requires authentication)
+
 +roll - returns a number from 1 to 100
 
 +d20 -  returns a number from 1 to 20
