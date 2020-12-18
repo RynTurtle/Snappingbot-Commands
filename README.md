@@ -29,7 +29,7 @@ List of commands and what they do :)
 
 +accountage - how old your account is
 
-+followage  (channel) - how long you have been following a channel
++followage  (channel) - how long you have been following a channel for
 
 +id (username) - returns the user id of a user
  
