@@ -44,7 +44,7 @@ List of commands and what they do :)
 +d20 -  returns a number from 1 to 20
 
 
-IF YOU HAVE ANY SUGGESTIONS/IDEAS TYPE +suggest (suggestion) <=== :) 
+IF YOU HAVE ANY SUGGESTIONS/IDEAS TYPE +suggest (suggestion) in any chat that has snappingbot <=== :) 
 
 ++ commands means that only the bot owner (turtoise) can use
 
