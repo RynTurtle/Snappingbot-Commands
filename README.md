@@ -44,6 +44,7 @@ List of commands and what they do :)
 +d20 -  returns a number from 1 to 20
 
 
+IF YOU HAVE ANY SUGGESTIONS/IDEAS TYPE +suggest (suggestion) <=== :) 
 
 ++ commands means that only the bot owner (turtoise) can use
 
