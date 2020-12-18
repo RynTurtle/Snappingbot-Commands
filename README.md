@@ -33,7 +33,7 @@ List of commands and what they do :)
 
 +id (username) - returns the user id of a user
  
-+subage - returns the amount of time a user has a sub streak for (not including someone who twitch primes every month) (requires authentication)
++substreak - returns the amount of time a user has a sub streak for (not including someone who twitch primes every month) (requires authentication)
  
 +sublist (channel) - sends all channel emotes of a channel  (including tier 2 and 3 emotes)
 
