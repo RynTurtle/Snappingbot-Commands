@@ -46,7 +46,7 @@ List of commands and what they do :)
 
 Info
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-IF YOU HAVE ANY SUGGESTIONS/IDEAS TYPE +suggest (suggestion) in any chat that has snappingbot - this will write  your username and suggestionto a file which i will check regularly :) 
+IF YOU HAVE ANY SUGGESTIONS/IDEAS TYPE +suggest (suggestion) in any chat that has snappingbot - this will write  your username and suggestion onto a file which i will check regularly :) 
 
 Apod changes at Midnight Eastern time (US East Coast). 
 
