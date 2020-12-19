@@ -44,8 +44,13 @@ List of commands and what they do :)
 +d20 -  returns a number from 1 to 20
 
 
-IF YOU HAVE ANY SUGGESTIONS/IDEAS TYPE +suggest (suggestion) in any chat that has snappingbot <=== :) 
+Info
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+IF YOU HAVE ANY SUGGESTIONS/IDEAS TYPE +suggest (suggestion) in any chat that has snappingbot - this will write  your username and suggestionto a file which i will check regularly :) 
+
+Apod changes at Midnight Eastern time (US East Coast). 
 
 ++ commands means that only the bot owner (turtoise) can use
 
 If you make the bot say anything against twitch TOS you will be put on the banlist and you will not be able to use this bot again. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
