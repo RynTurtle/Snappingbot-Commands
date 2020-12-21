@@ -5,7 +5,7 @@ List of commands and what they do :)
 
 +turtfact - random turtle/tortoise fact
 
-+pyramid (number, emote) - rainbow pyramid (this command needs to be requested)
++pyramid (number, emote) - rainbow pyramid (this command needs to be requested and is disabled by default)
 
 +color (username) - Shows the colour of a username and the hex value
 
