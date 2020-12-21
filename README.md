@@ -39,10 +39,7 @@ List of commands and what they do :)
 
 +subcount - returns the amount of subs the channel has (requires authentication)
 
-+roll - returns a number from 1 to 100
-
-+d20 -  returns a number from 1 to 20
-
++roll - (maximum number) - this will send a random number in chat from 1 to the maximum number specified
 
 Info
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
