@@ -43,6 +43,8 @@ List of commands and what they do :)
 
 +roll - (maximum number) - this will send a random number in chat from 1 to the maximum number specified
 
++ov - tells you how many offline viewers are in the chat 
+
 Info
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 IF YOU HAVE ANY SUGGESTIONS/IDEAS TYPE +suggest (suggestion) in any chat that has snappingbot - this will write  your username and suggestion onto a file which i will check regularly :) 
