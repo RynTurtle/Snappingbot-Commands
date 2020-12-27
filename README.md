@@ -15,6 +15,8 @@ List of commands and what they do :)
 
 +streaminfo (channelname) - shows title, category and viewcount 
 
++translate (any language that google can translate) - will translate the language to english, if spelt incorrectly will return the correct spelling.
+
 +apod - returns an astronomy picture/video of the day
 
 +ffz (channelname)  - returns all ffz emotes for the specific channel
@@ -37,8 +39,6 @@ List of commands and what they do :)
  
 +substreak - returns the amount of time a user has a sub streak for (not including someone who twitch primes every month) (requires authentication)
  
-+sublist (channel) - sends all channel emotes of a channel  (including tier 2 and 3 emotes)
-
 +subcount - returns the amount of subs the channel has (requires authentication)
 
 +roll - (maximum number) - this will send a random number in chat from 1 to the maximum number specified
