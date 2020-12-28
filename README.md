@@ -5,9 +5,13 @@ List of commands and what they do :)
 
 Make sure to mod or vip the bot in your channel so it wont get limited
 
-+join - joins the bot to your channel 
++join - joins the bot to your channel (can be used in any channel the bot is in)
 
-+leave - removes the bot from your channel
++leave - removes the bot from your channel (can be used in any channel the bot is in)
+
++joinpyramid - joins the pyramid command to your channel (can be used in any channel that has the pyramid command activated)
+
++leavepyramid -  removes the pyramid command from your channel  (can be used in any channel that has the pyramid command activated)
 
 +ping - Says how many channels the bot is connected to and also the uptime of the bot 
 
