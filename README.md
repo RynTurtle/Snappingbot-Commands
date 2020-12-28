@@ -9,9 +9,9 @@ Make sure to mod or vip the bot in your channel so it wont get limited
 
 +leave - removes the bot from your channel (can be used in any channel the bot is in)
 
-+joinpyramid - joins the pyramid command to your channel (can be used in any channel that has the pyramid command activated)
++joinpyramid - joins the pyramid command to your channel (only in a channel that already has the pyramid command for example snappingbot,turtoise,kattah)
 
-+leavepyramid -  removes the pyramid command from your channel  (can be used in any channel that has the pyramid command activated)
++leavepyramid -  removes the pyramid command from your channel  (only in a channel that already has the pyramid command for example snappingbot,turtoise,kattah)
 
 +ping - Says how many channels the bot is connected to and also the uptime of the bot 
 
