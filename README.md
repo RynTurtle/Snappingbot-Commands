@@ -53,6 +53,8 @@ Info
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 IF YOU HAVE ANY SUGGESTIONS/IDEAS TYPE +suggest (suggestion) in any chat that has snappingbot - this will write  your username and suggestion onto a file which i will check regularly :) 
 
+The bot is currently only online when my pc is on, I am saving up for a raspberry pi and will set it up within a few months. :) 
+
 Apod changes at Midnight Eastern time (US East Coast). 
 
 ++ commands means that only the bot owner (turtoise) can use
