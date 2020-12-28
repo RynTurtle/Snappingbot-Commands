@@ -4,6 +4,7 @@ List of commands and what they do :)
 (the bot is not properly made yet so there might be some bugs for example sending a command to another chat or receiving a command from another chat. I apologise for any inconveniences, if you would like to remove the bot until the issues are fixed just pm me on twitter and ill understand) 
 
 +join - joins the bot to your channel 
+
 +leave - removes the bot from your channel
 
 +ping - Says how many channels the bot is connected to and also the uptime of the bot 
