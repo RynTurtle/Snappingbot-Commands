@@ -3,7 +3,7 @@ List of commands and what they do :)
 
 
 
-(the bot is not properly made yet so there might be some bugs for example sending a command to another chat or receiving a command from another chat. I apologise for any inconveniences, if you would like to remove the bot until the issues are fixed just pm me on twitter and ill understand) 
+(the bot is not properly made yet so there might be some bugs for example sending a command to another chat or receiving a command from another chat. I apologise for any inconveniences, if you would like to remove the bot until the issues are fixed just type +leave)
 
 Make sure to mod or vip the bot in your channel so it wont get limited
 
