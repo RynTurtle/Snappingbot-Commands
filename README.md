@@ -41,14 +41,8 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 
 +vanish - times the user out with a reason of "this user is now hidden"
 
-+accountage - how old your account is
-
-+followage  (channel) - how long you have been following a channel for
-
 +id (username) - returns the user id of a user
- 
-+substreak - returns the amount of time a user has a sub streak for (not including someone who twitch primes every month) (requires authentication)
- 
+  
 +subcount - returns the amount of subs the channel has (requires authentication)
 
 +roll - (maximum number) - this will send a random number in chat from 1 to the maximum number specified
