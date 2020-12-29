@@ -7,6 +7,8 @@ List of commands and what they do :)
 
 Make sure to mod or vip the bot in your channel so it wont get limited
 
+If you would like to have the pyramid command whisper me on twitch or twitter :) 
+
 +joinbot - joins the bot to your channel (can be used in any channel the bot is in)
 
 +leavebot - removes the bot from your channel (can be used in any channel the bot is in)
