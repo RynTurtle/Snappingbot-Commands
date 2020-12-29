@@ -1,19 +1,15 @@
 # Snappingbot-Commands
 List of commands and what they do :) 
 
-PYRAMID COMMAND CURRENTLY DISABLED!
+
 
 (the bot is not properly made yet so there might be some bugs for example sending a command to another chat or receiving a command from another chat. I apologise for any inconveniences, if you would like to remove the bot until the issues are fixed just pm me on twitter and ill understand) 
 
 Make sure to mod or vip the bot in your channel so it wont get limited
 
-+join - joins the bot to your channel (can be used in any channel the bot is in)
++joinbot - joins the bot to your channel (can be used in any channel the bot is in)
 
-+leave - removes the bot from your channel (can be used in any channel the bot is in)
-
-+joinpyramid - joins the pyramid command to your channel (only in a channel that already has the pyramid command for example snappingbot,turtoise,kattah)
-
-+leavepyramid -  removes the pyramid command from your channel  (only in a channel that already has the pyramid command for example snappingbot,turtoise,kattah)
++leavebot - removes the bot from your channel (can be used in any channel the bot is in)
 
 +ping - Says how many channels the bot is connected to and also the uptime of the bot 
 
