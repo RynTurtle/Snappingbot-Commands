@@ -21,6 +21,12 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 
 +color (username) - Shows the colour of a username and the hex value
 
++accountage - how old your account is
+
++sublist (channel) - list of all emotes a channel has, including tier 1 through 3 
+
++subcount - how many subs a channel has, needs authentication from channel owner
+
 +topclip (channelname) - shows the top clip of all time for specific channel
 
 +streaminfo (channelname) - shows title, category and viewcount 
