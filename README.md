@@ -52,7 +52,9 @@ Apod changes at Midnight Eastern time (US East Coast).
 ## Special  thanks:
 
 Nimmy0 - getting me started into learning how to code with python and the beginnings of the bot.
+
 QuinnDT - being Yoda to us both  and helping me with some dank problems.
+
 Matthewde - Massive help on v2 of the bot creating a proper irc parser that fixed a lot of issues v1 had.
 
 withoiut these people i wouldn't of got into creating a bot so they deserve some appreciation and acknowledgement <3
