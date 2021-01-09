@@ -1,6 +1,7 @@
 ![image](https://static-cdn.jtvnw.net/emoticons/v1/304645329/3.0)
 
 # Snappingbot-Commands
+# BOT CURRENTLY OFFLINE UNTIL  FURTHER NOTICE - need to fix some things with the bot 
 List of commands and what they do :) 
 
 
