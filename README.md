@@ -13,8 +13,8 @@ Make sure to mod or vip the bot in your channel so it wont get limited
 If you would like to have the pyramid command whisper me on twitch or twitter :) 
 |command|description|
 |-|-|
-|+joinbot | joins the bot to your channel (can be used in any channel the bot is in)|
-|+leavebot | removes the bot from your channel (can be used in any channel the bot is in)|
+|+joinbot | joins the bot to your channel (can only be used in channel #snappingbot)|
+|+leavebot | removes the bot from your channel (can only be used in channel #snappingbot)|
 |+ping | Says how many channels the bot is connected to and also the uptime of the bot |
 |+turtfact | random turtle/tortoise fact|
 |+pyramid (number, emote) | rainbow pyramid (this command needs to be requested and is disabled by default)|
