@@ -1,12 +1,7 @@
 ![image](https://static-cdn.jtvnw.net/emoticons/v1/304645329/3.0)
 
 # Snappingbot-Commands
-# some commands wont work because i havent added them to the new bot yet
 List of commands and what they do :) 
-
-
-
-(the bot is not properly made yet so there might be some bugs for example sending a command to another chat or receiving a command from another chat. I apologise for any inconveniences, if you would like to remove the bot until the issues are fixed just type +leavebot)
 
 Make sure to mod or vip the bot in your channel so it wont get limited
 
@@ -26,6 +21,8 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 |+streaminfo (channelname) | shows title, category and viewcount |
 |+translate (any language that google can translate) | will translate the language to english, if spelt incorrectly will return the correct spelling.|
 |+apod | returns an astronomy picture/video of the day|
+|+dailydose | sends the most recent youtube video from dailydose (using the free version of api so the command may run out of daily usage)|
+|+randomdose | sends a random dailydose video from a list of 300 |
 |+ffz (channelname) | returns all ffz emotes for the specific channel|
 |+bttv (channelname) | returns all bttv emotes for the specific channel|
 |+twitchsongs | links a playlist with a bunch of well knows twitch songs|
@@ -35,7 +32,16 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 |+id (username) | returns the user id of a user|
 |+subcount | returns the amount of subs the channel has (requires authentication)|
 |+roll (maximum number) | this will send a random number in chat from 1 to the maximum number specified|
-|+ov | tells you how many offline viewers are in the chat |
+|+ov (channel) | tells you how many offline viewers are in a channel |
+
+|meme commands|description|
+|-|-|
+|+knight | adds someone to the list of people that can use the poki commands (only usable by turtoise)|
+|+pokifact | sends a random poki fact (from 15 facts - joke command so i wont be adding anymore because residentsleeper)|
+|+queen | sends a huge pokiW square example: https://i.imgur.com/0BQr2Ir.png |
+|+roundtable | returns all users able to use these commands|
+
+These commands are just for jokes and are not meant for everyone :) 
 
 ## Info
 ---
@@ -54,9 +60,9 @@ Apod changes at Midnight Eastern time (US East Coast).
 
 Nimmy0 - getting me started into learning how to code with python and the beginnings of the bot.
 
-QuinnDT - being Yoda to us both  and helping me with some dank problems.
+QuinnDT - helping a fuck ton with everything.
 
-Matthewde - Massive help on v2 of the bot creating a proper irc parser that fixed a lot of issues v1 had.
+Matthewde - Helping a ton with the theory of different commands and ideas.
 
 without these people i wouldn't of got into creating a bot so they deserve some appreciation and acknowledgement <3
 
