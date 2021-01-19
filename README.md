@@ -10,9 +10,11 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 |-|-|
 |+joinbot | joins the bot to your channel (can only be used in channel #snappingbot)|
 |+leavebot | removes the bot from your channel (can only be used in channel #snappingbot)|
+|+joinpyramid | adds the pyramid command to your channel (can only be used in channel #snappingbot)|
+|+leavepyramid | removes the pyramid command from your channel (can only be used in channel #snappingbot)|
 |+ping | Says how many channels the bot is connected to and also the uptime of the bot |
 |+turtfact | random turtle/tortoise fact|
-|+pyramid (number, emote) | rainbow pyramid (this command needs to be requested and is disabled by default)|
+|+pyramid (number, emote) | rainbow pyramid (this command needs to be added with +joinpyramid in snappingbots chat and is disabled by default)|
 |+color (username) | Shows the colour of a username and the hex value|
 |+accountage | how old your account is|
 |+sublist (channel) | list of all emotes a channel has, including tier 1 through 3 |
