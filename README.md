@@ -1,5 +1,6 @@
 ![image](https://static-cdn.jtvnw.net/emoticons/v1/304645329/3.0)
 
+Bot is currently running on a raspberry pi 4  :)
 # Snappingbot-Commands
 List of commands and what they do :) 
 
@@ -48,8 +49,6 @@ These commands are just for jokes and are not meant for everyone :)
 ## Info
 ---
 IF YOU HAVE ANY SUGGESTIONS/IDEAS TYPE +suggest (suggestion) in any chat that has snappingbot - this will write  your username and suggestion onto a file which i will check regularly :) 
-
-The bot is currently only online when my pc is on, I am saving up for a raspberry pi and will set it up within a few months. :) 
 
 Apod changes at Midnight Eastern time (US East Coast). 
 
