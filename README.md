@@ -22,7 +22,6 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 |+subcount | how many subs a channel has, needs authentication from channel owner|
 |+topclip (channelname) | shows the top clip of all time for specific channel|
 |+streaminfo (channelname) | shows title, category and viewcount |
-|+translate (any language that google can translate) | will translate the language to english, if spelt incorrectly will return the correct spelling.|
 |+apod | returns an astronomy picture/video of the day|
 |+dailydose | sends the most recent youtube video from dailydose (using the free version of api so the command may run out of daily usage)|
 |+randomdose | sends a random dailydose video from a list of 300 |
