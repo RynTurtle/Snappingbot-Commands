@@ -1,6 +1,7 @@
 ![image](https://static-cdn.jtvnw.net/emoticons/v1/304645329/3.0)
 
 Bot is currently running on a raspberry pi 4  :)
+
 # Snappingbot-Commands
 List of commands and what they do :) 
 
@@ -9,10 +10,6 @@ Make sure to mod or vip the bot in your channel so it wont get limited
 If you would like to have the pyramid command whisper me on twitch or twitter :) 
 |command|description|
 |-|-|
-|+joinbot | joins the bot to your channel (can only be used in channel #snappingbot)|
-|+leavebot | removes the bot from your channel (can only be used in channel #snappingbot)|
-|+joinpyramid | adds the pyramid command to your channel (can only be used in channel #snappingbot)|
-|+leavepyramid | removes the pyramid command from your channel (can only be used in channel #snappingbot)|
 |+ping | Says how many channels the bot is connected to and also the uptime of the bot |
 |+turtfact | random turtle/tortoise fact|
 |+pyramid (number, emote) | rainbow pyramid (this command needs to be added with +joinpyramid in snappingbots chat and is disabled by default)|
