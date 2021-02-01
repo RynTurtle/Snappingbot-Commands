@@ -32,7 +32,7 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 |+subcount | returns the amount of subs the channel has (requires authentication)|
 |+roll (maximum number) | this will send a random number in chat from 1 to the maximum number specified|
 |+ov (channel) | tells you how many offline viewers are in a channel |
-
+|+clip (channel) | clips any channel that is live (length: 30seconds) |
 |meme commands|description|
 |-|-|
 |+knight | adds someone to the list of people that can use the poki commands (only usable by turtoise)|
