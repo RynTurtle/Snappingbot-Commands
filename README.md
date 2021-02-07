@@ -10,8 +10,10 @@ Make sure to mod or vip the bot in your channel so it wont get limited
 If you would like to have the pyramid command whisper me on twitch or twitter :) 
 |command|description|
 |-|-|
+
 |+ping | Says how many channels the bot is connected to and also the uptime of the bot |
 |+turtfact | random turtle/tortoise fact|
+|+massping (message) | broadcaster only, pings every user that is in the viewerlist |
 |+pyramid (number, emote) | rainbow pyramid (this command needs to be added with +joinpyramid in snappingbots chat and is disabled by default)|
 |+color (username) | Shows the colour of a username and the hex value|
 |+accountage | how old your account is|
@@ -29,7 +31,6 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 |+duel (username) | returns the victor of the battle 50/50 chance|
 |+vanish | times the user out with a reason of "this user is now hidden"|
 |+id (username) | returns the user id of a user|
-|+subcount | returns the amount of subs the channel has (requires authentication)|
 |+roll (maximum number) | this will send a random number in chat from 1 to the maximum number specified|
 |+ov (channel) | tells you how many offline viewers are in a channel |
 |+clip (channel) | clips any channel that is live (length: 30seconds) |
