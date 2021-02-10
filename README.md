@@ -13,7 +13,6 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 
 |+ping | Says how many channels the bot is connected to and also the uptime of the bot |
 |+turtfact | random turtle/tortoise fact|
-|+massping (message) | broadcaster only, pings every user that is in the viewerlist |
 |+pyramid (number, emote) | rainbow pyramid (this command needs to be added with +joinpyramid in snappingbots chat and is disabled by default)|
 |+color (username) | Shows the colour of a username and the hex value|
 |+accountage | how old your account is|
