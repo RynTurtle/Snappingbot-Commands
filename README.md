@@ -60,9 +60,13 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 |meme commands|description|
 
 |-|-|
+
 |+knight | adds someone to the list of people that can use the poki commands (only usable by turtoise)|
+
 |+pokifact | sends a random poki fact (from 15 facts - joke command so i wont be adding anymore because residentsleeper)|
+
 |+queen | sends a huge pokiW square example: https://i.imgur.com/0BQr2Ir.png |
+
 |+roundtable | returns all users able to use these commands|
 
 These commands are just for jokes and are not meant for everyone :) 
