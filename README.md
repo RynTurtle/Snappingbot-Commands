@@ -9,7 +9,7 @@ Make sure to mod or vip the bot in your channel so it wont get limited
 
 If you would like to have the pyramid command whisper me on twitch or twitter :) 
 |command|description|
-|-|-|
+|-|
 
 |+ping | Says how many channels the bot is connected to and also the uptime of the bot |
 |+turtfact | random turtle/tortoise fact|
@@ -35,7 +35,7 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 |+ov (channel) | tells you how many offline viewers are in a channel |
 |+clip (channel) | clips any channel that is live (length: 30seconds) |
 |meme commands|description|
-|-|-|-|
+|-|-|
 |+knight | adds someone to the list of people that can use the poki commands (only usable by turtoise)|
 |+pokifact | sends a random poki fact (from 15 facts - joke command so i wont be adding anymore because residentsleeper)|
 |+queen | sends a huge pokiW square example: https://i.imgur.com/0BQr2Ir.png |
