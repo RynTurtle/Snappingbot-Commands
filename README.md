@@ -12,29 +12,53 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 |-|
 
 |+ping | Says how many channels the bot is connected to and also the uptime of the bot |
+
 |+turtfact | random turtle/tortoise fact|
+
 |+massping (message) | broadcaster only, pings every user that is in the viewerlist |
+
 |+pyramid (number, emote) | rainbow pyramid (this command needs to be added with +joinpyramid in snappingbots chat and is disabled by default)|
+
 |+color (username) | Shows the colour of a username and the hex value|
+
 |+accountage | how old your account is|
+
 |+sublist (channel) | list of all emotes a channel has, including tier 1 through 3 |
+
 |+subcount | how many subs a channel has, needs authentication from channel owner|
+
 |+topclip (channelname) | shows the top clip of all time for specific channel|
+
 |+streaminfo (channelname) | shows title, category and viewcount |
+
 |+apod | returns an astronomy picture/video of the day|
+
 |+dailydose | sends the most recent youtube video from dailydose (using the free version of api so the command may run out of daily usage)|
+
 |+randomdose | sends a random dailydose video from a list of 300 |
+
 |+ffz (channelname) | returns all ffz emotes for the specific channel|
+
 |+bttv (channelname) | returns all bttv emotes for the specific channel|
+
 |+twitchsongs | links a playlist with a bunch of well knows twitch songs|
+
 |+botcheck (username) | checks if a username is a known bot or verified bot |
+
 |+duel (username) | returns the victor of the battle 50/50 chance|
+
 |+vanish | times the user out with a reason of "this user is now hidden"|
+
 |+id (username) | returns the user id of a user|
+
 |+roll (maximum number) | this will send a random number in chat from 1 to the maximum number specified|
+
 |+ov (channel) | tells you how many offline viewers are in a channel |
+
 |+clip (channel) | clips any channel that is live (length: 30seconds) |
+
 |meme commands|description|
+
 |-|-|
 |+knight | adds someone to the list of people that can use the poki commands (only usable by turtoise)|
 |+pokifact | sends a random poki fact (from 15 facts - joke command so i wont be adding anymore because residentsleeper)|
