@@ -13,6 +13,7 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 
 |+ping | Says how many channels the bot is connected to and also the uptime of the bot |
 |+turtfact | random turtle/tortoise fact|
+|+massping (message) | broadcaster only, pings every user that is in the viewerlist |
 |+pyramid (number, emote) | rainbow pyramid (this command needs to be added with +joinpyramid in snappingbots chat and is disabled by default)|
 |+color (username) | Shows the colour of a username and the hex value|
 |+accountage | how old your account is|
@@ -34,7 +35,7 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 |+ov (channel) | tells you how many offline viewers are in a channel |
 |+clip (channel) | clips any channel that is live (length: 30seconds) |
 |meme commands|description|
-|-|-|
+|-|-|-|
 |+knight | adds someone to the list of people that can use the poki commands (only usable by turtoise)|
 |+pokifact | sends a random poki fact (from 15 facts - joke command so i wont be adding anymore because residentsleeper)|
 |+queen | sends a huge pokiW square example: https://i.imgur.com/0BQr2Ir.png |
