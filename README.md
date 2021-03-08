@@ -17,7 +17,7 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 
 |+massping (message) | broadcaster only, pings every user that is in the viewerlist |
 
-|+pyramid (number, emote) | rainbow pyramid (this command needs to be added with +joinpyramid in snappingbots chat and is disabled by default)|
+|+pyramid (number, emote) | rainbow pyramid (this command needs to be added by asking @turtoise in chat) and is disabled by default)|
 
 |+color (username) | Shows the colour of a username and the hex value|
 
