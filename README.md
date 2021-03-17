@@ -67,8 +67,6 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 
 |+queen | sends a huge pokiW square example: https://i.imgur.com/0BQr2Ir.png |
 
-|+roundtable | returns all users able to use these commands|
-
 These commands are just for jokes and are not meant for everyone :) 
 
 ## Info
