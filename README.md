@@ -2,6 +2,8 @@
 
 Bot is currently running on a raspberry pi 4  :)
 
+bot not online anymore sorry, I got too stressed over trying to fix the bot and spent too much time and effort for me to fail over and over again for months, I have had the same problem with disconnecting since i had started figuring out making bots for twitch and never figured it out/never will, I apologies if you liked the bot and I really enjoyed talking in the communities it was in. <3
+
 # Snappingbot-Commands
 List of commands and what they do :) 
 
