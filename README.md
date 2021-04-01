@@ -2,16 +2,14 @@
 
 Bot is currently running on a raspberry pi 4  :)
 
-bot not online anymore sorry, I got too stressed over trying to fix the bot and spent too much time and effort for me to fail over and over again for months, I have had the same problem with disconnecting since i had started figuring out making bots for twitch and never figured it out/never will, I apologies if you liked the bot and I really enjoyed talking in the communities it was in. <3
-
 # Snappingbot-Commands
-List of commands and what they do :) 
+Li-st of commands and what they do :) 
 
 Make sure to mod or vip the bot in your channel so it wont get limited
 
 If you would like to have the pyramid command whisper me on twitch or twitter :) 
 |command|description|
-|-|
+|-------|-----------|
 
 |+ping | Says how many channels the bot is connected to and also the uptime of the bot |
 
@@ -61,7 +59,7 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 
 |meme commands|description|
 
-|-|-|
+|-------------|-----------|
 
 |+knight | adds someone to the list of people that can use the poki commands (only usable by turtoise)|
 
@@ -91,4 +89,3 @@ QuinnDT - helping a fuck ton with everything.
 Matthewde - Helping a ton with the theory of different commands and ideas.
 
 without these people i wouldn't of got into creating a bot so they deserve some appreciation and acknowledgement <3
-
