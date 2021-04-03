@@ -3,7 +3,7 @@
 Bot is currently running on a raspberry pi 4  :)
 
 # Snappingbot-Commands
-Li-st of commands and what they do :) 
+List of commands and what they do :) 
 
 Make sure to mod or vip the bot in your channel so it wont get limited
 
