@@ -12,6 +12,7 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 |-------|-----------|
 |+ping | Says how many channels the bot is connected to and also the uptime of the bot |
 |+turtfact | random turtle/tortoise fact|
+|+nuke | it will delete the most recent vod. (broadcaster only) (needs channel editor, found in the dashboard) If spammed more than one vod will be deleted |
 |+massping (message) | broadcaster only, pings every user that is in the viewerlist |
 |+pyramid (number, emote) | rainbow pyramid (this command needs to be added by asking @turtoise in chat) and is disabled by default)|
 |+color (username) | Shows the colour of a username and the hex value|
