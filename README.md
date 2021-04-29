@@ -24,7 +24,7 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 |+apod | returns an astronomy picture/video of the day|
 |+dailydose | sends the most recent youtube video from dailydose (using the free version of api so the command may run out of daily usage)|
 |+randomdose | sends a random dailydose video from a list of 300 |
-|+ffz (channelname) | returns all ffz emotes for the specific channel|
+|+ffz (channel name) | returns all ffz emotes for the specific channel|
 |+bttv (channelname) | returns all bttv emotes for the specific channel|
 |+twitchsongs | links a playlist with a bunch of well knows twitch songs|
 |+botcheck (username) | checks if a username is a known bot or verified bot |
@@ -35,7 +35,7 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 |+ov (channel) | tells you how many offline viewers are in a channel |
 |+clip (channel) | clips any channel that is live (length: 30seconds) |
 
-|meme commands|description|
+|meme commands (default disabled)|description|
 |-------------|-----------|
 |+knight | adds someone to the list of people that can use the poki commands (only usable by turtoise)|
 |+pokifact | sends a random poki fact (from 15 facts - joke command so i wont be adding anymore because residentsleeper)|
