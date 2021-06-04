@@ -16,6 +16,7 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 |+massping (message) | broadcaster only, pings every user that is in the viewerlist |
 |+pyramid (number, emote) | rainbow pyramid (this command needs to be added by asking @turtoise in chat) and is disabled by default)|
 |+color (username) | Shows the colour of a username and the hex value|
+|+botemotes | shows all the emotes snappingbot has |
 |+accountage | how old your account is|
 |+sublist (channel) | list of all emotes a channel has, including tier 1 through 3 |
 |+subcount | how many subs a channel has, needs authentication from channel owner|
