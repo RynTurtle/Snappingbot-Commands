@@ -30,6 +30,7 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 |+twitchsongs | links a playlist with a bunch of well knows twitch songs|
 |+botcheck (username) | checks if a username is a known bot or verified bot |
 |+duel (username) | returns the victor of the battle 50/50 chance|
+|+profile (username) | sends your profile picture and your offline screen |
 |+vanish | times the user out with a reason of "this user is now hidden"|
 |+id (username) | returns the user id of a user|
 |+roll (maximum number) | this will send a random number in chat from 1 to the maximum number specified|
