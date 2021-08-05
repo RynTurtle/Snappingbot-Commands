@@ -10,7 +10,6 @@ Make sure to mod or vip the bot in your channel so it wont get limited
 If you would like to have the pyramid command whisper me on twitch or twitter :) 
 |command|description|
 |-------|-----------|
-
 |+ping | Says how many channels the bot is connected to and also the uptime of the bot |
 |+turtfact | random turtle/tortoise fact|
 |+nuke | it will delete the most recent vod. (broadcaster only) (needs channel editor, found in the dashboard) If spammed more than one vod will be deleted |
