@@ -19,6 +19,7 @@ If you would like to have the pyramid command whisper me on twitch or twitter :)
 |+streaminfo (channelname) | shows title, category and viewcount |
 |+apod | returns an astronomy picture/video of the day|
 |+earth | finds the most recent pictures of the earth from nasas api and sends a picture of the earth at a different timeframe |
+|+nasa | gets random data from nasa's database containing an image, title and date |
 |+randomdose | sends a random dailydose video from a list of 300 |
 |+ffz (channel name) | returns all ffz emotes for the specific channel|
 |+bttv (channelname) | returns all bttv emotes for the specific channel|
